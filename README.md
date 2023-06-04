@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🧐
 
 I am ***Weiyuan XU***, a **Finance** student who aspires to work in **Quantitative Finance** from **The Chinese University of Hong Kong, Shenzhen** 
 
