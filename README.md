@@ -1,6 +1,6 @@
 ### Hi there 🧐
 
-I am ***Weiyuan XU***, a **Finance** student who aspires to work in **Quantitative Finance** from **The Chinese University of Hong Kong, Shenzhen** 
+I am ***Weiyuan XU***, a **Finance** undergraduate who aspires to work in **Quantitative Finance** from **The Chinese University of Hong Kong, Shenzhen** 
 
 Please feel free to contact me:
 ***weiyuanxu@link.cuhk.edu.cn***
