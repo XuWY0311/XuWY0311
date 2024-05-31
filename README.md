@@ -1,9 +1,9 @@
 ### Hi there 🧐
 
-I am ***Mickey XU***, a **Finance** undergraduate who aspires to work in **Quantitative Finance** from **The Chinese University of Hong Kong, Shenzhen** 
+I am ***Mickey XU***, an incoming MFE student from **Berkeley Haas MFE Program** 
 
 Please feel free to contact me:
-***weiyuanxu@link.cuhk.edu.cn***
+***weiyuan_xu@berkeley.edu***
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuWY0311&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
